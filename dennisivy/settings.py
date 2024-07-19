@@ -31,7 +31,7 @@ SECRET_KEY = 'va)#9dh+yr#j+s#pmifooayce_naqm&v@=q=wu(cfjlbqo23nx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','djangoblog49-deploy.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1','djangoblog49-deploy.onrender.com','djangoblog49.onrender.com']
 
 
 # Application definition
