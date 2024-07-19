@@ -1,0 +1,91 @@
+
+{% extends 'base/main.html' %}
+{% load static %} 
+
+{% block content %}
+
+<style type="text/css">
+	img {
+		
+		width: 500px;
+		object-fit: cover;
+	}
+
+	.featured_image {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+
+	.post-container {
+		width: 900px;
+		margin: 0 auto;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	.comments-wrapper{
+		margin-top: 50px;
+		padding: 10px;
+		border:1px solid var(--borderColor);
+		-webkit-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
+		-moz-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
+		box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
+	}
+
+	.comment{
+		display: flex;
+		padding: 15px;
+	}
+
+	.comment-author{
+		font-size: 14px;
+		font-weight: 700;
+		color: rgb(30, 174, 219) !important;
+		margin: 2px;
+	}
+
+	.author-pic{
+		width: 50px;
+		height: 50px;
+		border-radius: 50%;
+		margin-right: 10px;
+	}
+
+	.comment-body{
+
+		font-size: 14px;
+	}
+
+
+	@media screen and (max-width: 900px) {
+		.post-container {
+			width: 95%;
+		}
+	}
+</style>
+
+
+	
+<div class="post-container">
+	
+	<a class="btn btn-lg btn-warning" href="{% url 'posts' %}">&laquo Back to Posts</a>
+	<hr>
+	<a class="btn btn-primary" href="{% url 'update_post' post.slug %}">Update</a>
+	
+	<a class="btn btn-danger" href="{% url 'delete_post' post.slug %}">Delete</a>
+	
+	<hr>
+	<br>
+	<img src="{{post.thumbnail.url}}" />
+	<hr>
+
+	<h1>{{post.headline}}</h1>
+	<hr>
+
+	<h4>{{post.sub_headline}}</h4>
+
+	<p>{{post.body|safe}}</p>	
+	<hr>
+</div>
+
+{% endblock content %}

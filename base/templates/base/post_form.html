@@ -1,0 +1,39 @@
+{% extends 'base/main.html' %}
+{% load static %}
+
+<!--Adding Crispy Form-->
+{% load crispy_forms_tags %}
+
+{% block content %}
+
+<!--Bootstrap Styling applied to Tags-->
+<style type="text/css">
+	#div_id_tags > div{
+		max-height: 100px;
+		overflow-y: scroll;
+		border:1px solid #888;
+		padding: 5px;
+		border-radius: 5px;
+	}
+</style>
+
+<div class="main-container">
+	<br>
+    <h1 style="text-align: center;">Blog Update Form</h1>
+	
+	<a class="btn btn-lg btn-primary" href="{% url 'posts' %}">&laquo Back to Posts</a>
+
+	<hr>
+    <form action="" method="POST" enctype="multipart/form-data">
+		{% csrf_token %}
+		{{form.media}}
+		{{form|crispy}}
+		<input class="btn btn-lg btn-primary" type="submit" value="Submit Post">
+		<hr>
+		
+	</form>
+</div>
+
+
+
+{% endblock content %}

@@ -1,0 +1,62 @@
+{% extends 'base/main.html' %}
+
+{% load static %}
+
+{% load crispy_forms_tags %}
+
+{% block content %}
+
+<!--Tag While Search avoid Overflow-->
+<style type="text/css">
+	#div_id_tags, #id_tags{
+		overflow-y: scroll;
+		max-height: 150px;
+        width: 700px;
+		border-radius: 5px;
+		padding: 5px;
+		border:1px solid #888;
+	}
+</style>
+
+
+<div class="main-container">
+    <br>
+    <h1>Blog Application</h1><br>
+	<a class="btn btn-lg btn-warning" href="{% url 'create_post' %}">Create Blog</a>
+    <br><br>
+    <form id="searchForm" method="GET">
+		{{myFilter.form|crispy}}
+		<input class="btn btn-lg btn-primary" type="submit" value="search">
+	</form>
+    
+
+	<br>
+    <div class="post-wrapper">
+
+        {% for post in posts %}
+        <div>
+            <div class="post">
+				<a href="{% url 'post' post.slug %}">
+					<img class="thumbnail" src="{{post.thumbnail.url}}">
+				</a>
+                
+                <div class="post-preview">
+                    <h5 class="post-title">{{post.headline}}</h5>
+                    <p class="post-intro">{{post.sub_headline}}</p>
+                    <a class="btn btn-warning" href="{% url 'post' post.slug %}">Read More</a>
+					
+                    <hr>
+                    {% for tag in post.tags.all %}
+                        <span class="tag">{{tag}}</span>
+                    {% endfor %}
+                    <hr>
+                    <br>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+{% endblock content %}

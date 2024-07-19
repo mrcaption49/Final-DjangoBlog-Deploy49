@@ -1,0 +1,11 @@
+
+python manage.py runserver
+directly in main folder 
+
+Admin user admin password for django dashboard - 
+
+User - blog2024
+password - pranav@1999
+
+
+
