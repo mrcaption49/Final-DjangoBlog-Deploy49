@@ -1,10 +1,15 @@
-
-python manage.py runserver
-directly in main folder 
+Directly in main folder - python manage.py runserver
 
 Admin user admin password for django dashboard - 
 
-User - blog123
-password - blog123
+User - XXXX123
+password - XXXX123
+
+Account used - xxxxxxxxx49@gmail.com
+Bucket-name - django-blog49
+
+Final Link - https://djangoblog49.onrender.com/
+
+
 
 
