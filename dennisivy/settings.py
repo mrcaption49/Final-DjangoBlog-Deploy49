@@ -57,6 +57,7 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 
 
+
 MIDDLEWARE = [
 
     'whitenoise.middleware.WhiteNoiseMiddleware',
