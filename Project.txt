@@ -1,0 +1,32 @@
+----------------------------------------------------------------------------------------
+Updated 04 APRIL 2025 (05/04/2025)
+----------------------------------------------------------------------------------------
+
+Directly in main folder - python manage.py runserver
+Admin user admin password for django dashboard - 
+
+User - pranav123
+password - pranav123
+
+Account used - mrcaption49@gmail.com
+Bucket-name - django-blog49
+
+Final Link - https://djangoblog49.onrender.com/
+
+
+----------------------------------------------------------------------------------------
+Updated 04 APRIL 2025 (05/04/2025)
+----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
