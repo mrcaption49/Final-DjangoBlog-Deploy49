@@ -1,0 +1,101 @@
+----------------------------------------------------------------------------------------
+Updated 2 October 2025 (02/10/2025)
+----------------------------------------------------------------------------------------
+
+Directly in main folder - python manage.py runserver
+Admin user admin password for django dashboard - 
+
+User - pranav123
+password - pranav123
+
+Account used - mrcaption49@gmail.com
+Bucket-name - django-blog49
+
+Final Link - https://djangoblog49.onrender.com/
+
+
+Sample Content - 
+
+
+
+
+Atomic Habits
+Atomic habits by James Clear
+Atomic Habits by James Clear is a transformative book that emphasizes how small, consistent changes lead to extraordinary long-term results. It highlights the powerful concept of compounding habits, proving that improving just 1% each day can create remarkable progress over time. Instead of chasing goals, the book urges focusing on identity-based habits, shaping who we become rather than what we achieve. The book introduces a sustainable four-step model—cue, craving, response, and reward—that governs all behaviors. By optimizing our environment and making good habits effortless, we increase the likelihood of sticking to them. Conversely, breaking destructive habits involves making them unattractive, difficult, and unsatisfying. These strategic methods allow us to take control of our actions and transform our lives with minimal resistance. Another revolutionary idea is habit stacking—linking new habits to existing ones for a seamless routine. Tracking progress keeps motivation high, ensuring relentless momentum. The book stresses that true success is built on systems, not just goals. Focusing on refining daily behaviors rather than fixating on results ensures unstoppable long-term growth. Ultimately, Atomic Habits is a life-changing guide that teaches how persistent refinement and adaptation lead to mastery. It reinforces the idea that success isn’t about radical change but about small, intentional improvements that compound into invincible achievements over time.
+
+
+Manifest
+Manifest by Roxie Nafous
+Manifest by Roxie Nafousi is a powerful, transformational, and life-altering guide to unlocking your limitless potential through the art of manifestation. This empowering book breaks down the process into clear, practical, and actionable steps, helping readers harness the power of self-belief, visualization, and aligned action. It emphasizes the importance of self-worth, unshakable confidence, and an unbreakable mindset in attracting abundance, success, and happiness. Through profound self-reflection and fearless goal-setting, the book inspires readers to eliminate self-doubt, embrace gratitude, and cultivate a magnetic energy that draws opportunities effortlessly. By combining spirituality with pragmatic techniques, Manifest serves as a revolutionary blueprint for those seeking to turn dreams into reality, fostering a purposeful, fulfilled, and extraordinary life.
+
+
+Ikigai
+Ikigai - The Japanese Secret to a Long and Happy Life
+Ikigai is a profound and life-altering philosophy that unveils the secret to a purposeful, joyful, and fulfilling life. Rooted in Japanese wisdom, it encourages discovering the intersection of passion, mission, vocation, and profession—the core of one’s true calling. This transformative concept emphasizes the importance of waking up with unstoppable enthusiasm, embracing daily routines with deep satisfaction, and cultivating lifelong meaning. The book highlights how resilient individuals in Okinawa, Japan, achieve extraordinary longevity and happiness by nurturing strong social bonds, staying active, eating mindfully, and engaging in work that aligns with their soulful purpose. By adopting an empowering mindset and integrating small, intentional changes, anyone can unlock a harmonious existence filled with boundless energy, relentless passion, and unshakable contentment. Ultimately, Ikigai is a timeless guide to living a remarkable, balanced, and deeply meaningful life.
+
+
+
+
+
+
+Web Dev Projects
+
+https://pepsi-logo49.onrender.com/
+
+https://cardflip3601.onrender.com/
+
+https://section49-deployment.onrender.com/
+
+https://video-gallery49-deployment.onrender.com/
+
+https://clock49-theme-deployment.onrender.com/
+
+
+🔵 Pepsi Logo Animation
+Tech Stack: HTML, CSS
+Description:
+A visually striking and technically precise recreation of the iconic Pepsi logo, brought to life using pure CSS animations and transitions. This aesthetically refined project showcases advanced use of keyframes, transforms, and layered styling. It exemplifies creativity, branding insight, and mastery in modern web animations.
+
+🔁 Card Flip Animation
+Tech Stack: HTML, CSS, JavaScript
+Description:
+An elegantly interactive card component featuring smooth 3D flip effects. Built with clean code structure and intuitive interactivity, this component demonstrates proficiency in DOM manipulation and modern CSS transformations. Ideal for highly dynamic user interfaces like portfolios, dashboards, or eCommerce product displays.
+
+📄 Section Layout
+Tech Stack: HTML, CSS
+Description:
+A professional-grade, responsive multi-section layout perfect for personal websites and business landing pages. This layout emphasizes clarity, visual hierarchy, and structural elegance, enabling seamless content presentation across devices. It’s designed to deliver a polished and user-centric browsing experience.
+
+🎥 Video Gallery
+Tech Stack: HTML, CSS, JavaScript
+Description:
+A highly engaging, grid-based video gallery that allows users to interact with video content in a clean and responsive format. Featuring smooth hover animations, optimized video playback, and intuitive layout, this project is ideal for portfolios, media sites, and entertainment platforms.
+
+⏰ Clock Theme
+Tech Stack: HTML, CSS, JavaScript
+Description:
+A stylish, real-time digital clock designed with a sleek UI and dynamic background theme. This project highlights attention to detail, time-sensitive data handling, and design consistency using JavaScript. It serves as an elegant widget for modern dashboards or time-based applications.
+
+
+
+
+
+
+
+
+https://django-deploy-final.onrender.com/
+
+https://mern-deploy-july.onrender.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
