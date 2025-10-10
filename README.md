@@ -1,9 +1,12 @@
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
 
+Updated 10/10/2025
+
 https://djangoblog49.onrender.com/
 
-Updated 10/10/2025
+<img width="1178" height="860" alt="image" src="https://github.com/user-attachments/assets/993e3dfe-a0fe-439f-b946-b95bae4a683b" />
+
 
 Directly in main folder - python manage.py runserver
 Admin user admin password for django dashboard - 
