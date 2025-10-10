@@ -2,5 +2,68 @@
 https://djangoblog49.onrender.com/
 
 
+----------------------------------------------------------------------------------------
+Updated 10/10/2025
+----------------------------------------------------------------------------------------
+
+Directly in main folder - python manage.py runserver
+Admin user admin password for django dashboard - 
+
+User - pranav123
+password - pranav123
+
+Account used - mrcaption49@gmail.com
+Bucket-name - django-blog49
+
+Final Link - https://djangoblog49.onrender.com/
+
+
+
+Web Dev Projects
+
+https://pepsi-logo49.onrender.com/
+
+https://cardflip3601.onrender.com/
+
+https://section49-deployment.onrender.com/
+
+https://video-gallery49-deployment.onrender.com/
+
+https://clock49-theme-deployment.onrender.com/
+
+
+🔵 Pepsi Logo Animation
+Tech Stack: HTML, CSS
+Description:
+A visually striking and technically precise recreation of the iconic Pepsi logo, brought to life using pure CSS animations and transitions. This aesthetically refined project showcases advanced use of keyframes, transforms, and layered styling. It exemplifies creativity, branding insight, and mastery in modern web animations.
+
+🔁 Card Flip Animation
+Tech Stack: HTML, CSS, JavaScript
+Description:
+An elegantly interactive card component featuring smooth 3D flip effects. Built with clean code structure and intuitive interactivity, this component demonstrates proficiency in DOM manipulation and modern CSS transformations. Ideal for highly dynamic user interfaces like portfolios, dashboards, or eCommerce product displays.
+
+📄 Section Layout
+Tech Stack: HTML, CSS
+Description:
+A professional-grade, responsive multi-section layout perfect for personal websites and business landing pages. This layout emphasizes clarity, visual hierarchy, and structural elegance, enabling seamless content presentation across devices. It’s designed to deliver a polished and user-centric browsing experience.
+
+🎥 Video Gallery
+Tech Stack: HTML, CSS, JavaScript
+Description:
+A highly engaging, grid-based video gallery that allows users to interact with video content in a clean and responsive format. Featuring smooth hover animations, optimized video playback, and intuitive layout, this project is ideal for portfolios, media sites, and entertainment platforms.
+
+⏰ Clock Theme
+Tech Stack: HTML, CSS, JavaScript
+Description:
+A stylish, real-time digital clock designed with a sleek UI and dynamic background theme. This project highlights attention to detail, time-sensitive data handling, and design consistency using JavaScript. It serves as an elegant widget for modern dashboards or time-based applications.
+
+
+
+
+https://django-deploy-final.onrender.com/
+
+https://mern-deploy-july.onrender.com/
+
+
 
 

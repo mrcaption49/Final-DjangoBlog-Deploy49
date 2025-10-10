@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------
-Updated 03 AUGUST 2025 (03/08/2025)
+Updated 10/10/2025
 ----------------------------------------------------------------------------------------
 
 Directly in main folder - python manage.py runserver
@@ -12,29 +12,6 @@ Account used - mrcaption49@gmail.com
 Bucket-name - django-blog49
 
 Final Link - https://djangoblog49.onrender.com/
-
-
-Sample Content - 
-
-
-
-
-Atomic Habits
-Atomic habits by James Clear
-Atomic Habits by James Clear is a transformative book that emphasizes how small, consistent changes lead to extraordinary long-term results. It highlights the powerful concept of compounding habits, proving that improving just 1% each day can create remarkable progress over time. Instead of chasing goals, the book urges focusing on identity-based habits, shaping who we become rather than what we achieve. The book introduces a sustainable four-step model—cue, craving, response, and reward—that governs all behaviors. By optimizing our environment and making good habits effortless, we increase the likelihood of sticking to them. Conversely, breaking destructive habits involves making them unattractive, difficult, and unsatisfying. These strategic methods allow us to take control of our actions and transform our lives with minimal resistance. Another revolutionary idea is habit stacking—linking new habits to existing ones for a seamless routine. Tracking progress keeps motivation high, ensuring relentless momentum. The book stresses that true success is built on systems, not just goals. Focusing on refining daily behaviors rather than fixating on results ensures unstoppable long-term growth. Ultimately, Atomic Habits is a life-changing guide that teaches how persistent refinement and adaptation lead to mastery. It reinforces the idea that success isn’t about radical change but about small, intentional improvements that compound into invincible achievements over time.
-
-
-Manifest
-Manifest by Roxie Nafous
-Manifest by Roxie Nafousi is a powerful, transformational, and life-altering guide to unlocking your limitless potential through the art of manifestation. This empowering book breaks down the process into clear, practical, and actionable steps, helping readers harness the power of self-belief, visualization, and aligned action. It emphasizes the importance of self-worth, unshakable confidence, and an unbreakable mindset in attracting abundance, success, and happiness. Through profound self-reflection and fearless goal-setting, the book inspires readers to eliminate self-doubt, embrace gratitude, and cultivate a magnetic energy that draws opportunities effortlessly. By combining spirituality with pragmatic techniques, Manifest serves as a revolutionary blueprint for those seeking to turn dreams into reality, fostering a purposeful, fulfilled, and extraordinary life.
-
-
-Ikigai
-Ikigai - The Japanese Secret to a Long and Happy Life
-Ikigai is a profound and life-altering philosophy that unveils the secret to a purposeful, joyful, and fulfilling life. Rooted in Japanese wisdom, it encourages discovering the intersection of passion, mission, vocation, and profession—the core of one’s true calling. This transformative concept emphasizes the importance of waking up with unstoppable enthusiasm, embracing daily routines with deep satisfaction, and cultivating lifelong meaning. The book highlights how resilient individuals in Okinawa, Japan, achieve extraordinary longevity and happiness by nurturing strong social bonds, staying active, eating mindfully, and engaging in work that aligns with their soulful purpose. By adopting an empowering mindset and integrating small, intentional changes, anyone can unlock a harmonious existence filled with boundless energy, relentless passion, and unshakable contentment. Ultimately, Ikigai is a timeless guide to living a remarkable, balanced, and deeply meaningful life.
-
-
-
 
 
 
@@ -75,10 +52,6 @@ A highly engaging, grid-based video gallery that allows users to interact with v
 Tech Stack: HTML, CSS, JavaScript
 Description:
 A stylish, real-time digital clock designed with a sleek UI and dynamic background theme. This project highlights attention to detail, time-sensitive data handling, and design consistency using JavaScript. It serves as an elegant widget for modern dashboards or time-based applications.
-
-
-
-
 
 
 
